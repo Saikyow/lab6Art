@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+    <city>
+        <id>1</id>
+        <name>Moscow</name>
+        <coordinates>
+            <x>200</x>
+            <y>60.0</y>
+        </coordinates>
+        <creationDate>2025-01-01T12:00+03:00[Europe/Moscow]</creationDate>
+        <area>2511.0</area>
+        <population>12000000</population>
+        <metersAboveSeaLevel>156</metersAboveSeaLevel>
+        <timezone>3.0</timezone>
+        <carCode>77</carCode>
+        <governor>
+            <name>Sergey</name>
+        </governor>
+    </city>
+</cities>

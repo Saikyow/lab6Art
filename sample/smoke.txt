@@ -1,0 +1,21 @@
+info
+show
+min_by_name
+filter_by_timezone 3.0
+filter_less_than_standard_of_living LOW
+remove_by_id 2
+show
+
+update 1
+Moscow
+200
+60.0
+2511.0
+12000000
+156
+3.0
+77
+
+Sergey
+
+exit
