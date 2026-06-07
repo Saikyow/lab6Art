@@ -227,33 +227,3 @@ Lab6/
 ## Логирование
 
 Серверные события (старт, новые подключения, входящие запросы, отправка ответов, ошибки, остановка) пишутся в `server.log` и stdout через Log4j2. Конфигурация в `server/src/main/resources/log4j2.xml`.
-
-## Быстрая проверка
-
-```bash
-# терминал #1
-cd Lab6
-export CITIES_FILE=$PWD/sample/cities.xml
-export SERVER_PORT=5555
-java -cp "server/target/server-1.0.0.jar:server/target/lib/*" lab6.server.ServerMain
-
-# терминал #2
-cd Lab6
-export SERVER_PORT=5555
-java -cp "client/target/client-1.0.0.jar:client/target/lib/*" lab6.client.ClientMain < sample/smoke.txt
-```
-
-Ожидаемый вывод клиента — последовательность ответов сервера на каждую команду из скрипта.
-
-## .gitignore
-
-Перед публикацией убедись, что в репозиторий не попадают артефакты сборки:
-
-```
-target/
-*.class
-*.jar
-*.log
-.idea/
-*.iml
-```
