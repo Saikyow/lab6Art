@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"lab6.client"},{"l":"lab6.client.input"},{"l":"lab6.client.io"},{"l":"lab6.client.net"},{"l":"lab6.common.model"},{"l":"lab6.common.net"},{"l":"lab6.server"},{"l":"lab6.server.commands"},{"l":"lab6.server.core"},{"l":"lab6.server.io"},{"l":"lab6.server.net"}];updateSearchResults();

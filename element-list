@@ -1,0 +1,11 @@
+lab6.client
+lab6.client.input
+lab6.client.io
+lab6.client.net
+lab6.common.model
+lab6.common.net
+lab6.server
+lab6.server.commands
+lab6.server.core
+lab6.server.io
+lab6.server.net

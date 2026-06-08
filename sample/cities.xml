@@ -17,4 +17,22 @@
             <name>Sergey</name>
         </governor>
     </city>
+    <city>
+        <id>2</id>
+        <name>f</name>
+        <coordinates>
+            <x>5</x>
+            <y>5.0</y>
+        </coordinates>
+        <creationDate>2026-06-07T18:11:28.373225+03:00[Europe/Moscow]</creationDate>
+        <area>5.0</area>
+        <population>5</population>
+        <metersAboveSeaLevel>5</metersAboveSeaLevel>
+        <timezone>5.0</timezone>
+        <carCode>5</carCode>
+        <standardOfLiving>LOW</standardOfLiving>
+        <governor>
+            <name>Abakan</name>
+        </governor>
+    </city>
 </cities>
